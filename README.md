@@ -1,6 +1,6 @@
-#Homework-Organizer
+# Homework-Organizer
 
-###A simple console application written in C# to help organize and keep track of your homework.
+### A simple console application written in C# to help organize and keep track of your homework.
 Features
 
     Add new homework: Easily add new assignments with a title and description.
@@ -8,7 +8,7 @@ Features
     View all homework: List all current assignments with their completion status.
     Simple navigation: Use a numbered menu to select actions in the program.
 
-##Usage
+## Usage
 
 Once the application starts, you will be presented with a menu:
 
@@ -20,13 +20,13 @@ Once the application starts, you will be presented with a menu:
 Simply input the corresponding number to perform the desired action.
 
 
-##How it works
+## How it works
 
     Adding homework: You will be prompted to input the title and description.
     Marking as complete: Choose a homework item to toggle its completion status.
     Viewing all homework: Displays each homework item with its title, description, and status ("Fullført" or "Ikke fullført").
 
-##Code Structure
+## Code Structure
 
     Lekse: A class representing a homework item with properties like title, description, and completion status.
     Functions include:
@@ -34,11 +34,11 @@ Simply input the corresponding number to perform the desired action.
         SnuStatus(): Toggles the completion status of a homework item.
         SkrivUtLekser(): Displays all homework items with their details.
 
-##Requirements
+## Requirements
 
     .NET 6 or higher installed.
 
-##How to run
+## How to run
 
     Clone the repository:
 
