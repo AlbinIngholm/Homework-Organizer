@@ -1,0 +1,14 @@
+C:\Users\albin\source\repos\LekseOrganisering\bin\Debug\net8.0\LekseOrganisering.exe
+C:\Users\albin\source\repos\LekseOrganisering\bin\Debug\net8.0\LekseOrganisering.deps.json
+C:\Users\albin\source\repos\LekseOrganisering\bin\Debug\net8.0\LekseOrganisering.runtimeconfig.json
+C:\Users\albin\source\repos\LekseOrganisering\bin\Debug\net8.0\LekseOrganisering.dll
+C:\Users\albin\source\repos\LekseOrganisering\bin\Debug\net8.0\LekseOrganisering.pdb
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.AssemblyInfoInputs.cache
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.AssemblyInfo.cs
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.csproj.CoreCompileInputs.cache
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.dll
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\refint\LekseOrganisering.dll
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.pdb
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\LekseOrganisering.genruntimeconfig.cache
+C:\Users\albin\source\repos\LekseOrganisering\obj\Debug\net8.0\ref\LekseOrganisering.dll

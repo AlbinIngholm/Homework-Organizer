@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\source\\repos\\lekseorganisering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\source\\repos\\lekseorganisering\\lekse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|solutionrelative:lekse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lekse.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Lekse.cs",
+              "RelativeDocumentMoniker": "Lekse.cs",
+              "ToolTip": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Lekse.cs",
+              "RelativeToolTip": "Lekse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:44:29.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:06:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
