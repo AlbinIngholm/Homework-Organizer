@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\",
+  "WorkspaceRootPath": "C:\\Users\\albin\\Homework-Organizer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\source\\repos\\lekseorganisering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\homework-organizer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\source\\repos\\lekseorganisering\\lekse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\homework-organizer\\lekse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|solutionrelative:lekse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|c:\\users\\albin\\homework-organizer\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{CD8B58B7-D6E7-4D7D-A452-288AD9F3D657}|LekseOrganisering.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\albin\\Homework-Organizer\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\albin\\Homework-Organizer\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-27T06:42:28.042Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Lekse.cs",
-              "DocumentMoniker": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Lekse.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\Homework-Organizer\\Lekse.cs",
               "RelativeDocumentMoniker": "Lekse.cs",
-              "ToolTip": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Lekse.cs",
+              "ToolTip": "C:\\Users\\albin\\Homework-Organizer\\Lekse.cs",
               "RelativeToolTip": "Lekse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABOAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T12:44:29.272Z",
               "EditorCaption": ""
@@ -37,18 +53,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\albin\\Homework-Organizer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\Program.cs",
+              "ToolTip": "C:\\Users\\albin\\Homework-Organizer\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAUwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAYwFgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-25T12:06:16.516Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

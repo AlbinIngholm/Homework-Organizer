@@ -1,10 +1,12 @@
 ﻿using LekseOrganisering;
+using System.Text.Json;
 
 List<Lekse> lekser = new();
 bool run = true;
 
 while (run)
 {
+    loadJson();
     Console.WriteLine("Velkommen til lekseorganisering. Velg hvilken handling du vil utføre.");
     Console.WriteLine("1: Legg til ny lekse");
     Console.WriteLine("2: Marker lekse som fullført");
@@ -24,6 +26,7 @@ while (run)
             SkrivUtLekser();
             break;
         case 4:
+            lagreJson();    
             run = false;
             break;
         default:
@@ -72,6 +75,23 @@ void SkrivUtLekser() // funksjon for å skrive ut leksene
             $"Beskrivelse: {lekser[i].Beskrivelse}\n" +
             $"Status: {StatusSjekk(lekser[i].Status)}");
 
+    }
+}
+
+void lagreJson()
+{
+    string json = JsonSerializer.Serialize(lekser);
+    File.WriteAllText("lekser.json", json);
+    Console.WriteLine("Lagret til lekser.json");
+}
+
+void loadJson()
+{
+    if (File.Exists("lekser.json"))
+    {
+        string json = File.ReadAllText("lekser.json");
+        lekser = JsonSerializer.Deserialize<List<Lekse>>(json) ?? new List<Lekse>();
+        Console.WriteLine("Lastet inn fra lekser.json");
     }
 }
 

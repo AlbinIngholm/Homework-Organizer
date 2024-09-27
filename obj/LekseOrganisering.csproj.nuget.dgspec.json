@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\LekseOrganisering.csproj": {}
+    "C:\\Users\\albin\\Homework-Organizer\\LekseOrganisering.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\LekseOrganisering.csproj": {
+    "C:\\Users\\albin\\Homework-Organizer\\LekseOrganisering.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\LekseOrganisering.csproj",
+        "projectUniqueName": "C:\\Users\\albin\\Homework-Organizer\\LekseOrganisering.csproj",
         "projectName": "LekseOrganisering",
-        "projectPath": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\LekseOrganisering.csproj",
+        "projectPath": "C:\\Users\\albin\\Homework-Organizer\\LekseOrganisering.csproj",
         "packagesPath": "C:\\Users\\albin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albin\\source\\repos\\LekseOrganisering\\obj\\",
+        "outputPath": "C:\\Users\\albin\\Homework-Organizer\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\albin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
