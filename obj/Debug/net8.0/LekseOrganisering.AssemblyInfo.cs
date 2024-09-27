@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LekseOrganisering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e83c3f892b8c5206437bff4e6d258133af91dff9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8bccfeecf799147b9c4c878e1fccc4f8586f57a")]
 [assembly: System.Reflection.AssemblyProductAttribute("LekseOrganisering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LekseOrganisering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
